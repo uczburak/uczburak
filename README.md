@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uczburak
+- 👋 Hi, I’m Burak
 - 👀 I’m interested in Javascript/C#
 - 🌱 I’m currently learning Frontend Dev.
 - 💞️ I’m looking to collaborate on a Company
