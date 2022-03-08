@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Burak
 - 👀 I’m interested in Javascript/C#(.Net)
-- 🌱 I’m currently learning Frontend Dev.
+- 🌱 I’m currently learning Backend Dev.
 - 💞️ I’m looking to collaborate on a Company
 - 📫 How to reach me uczbrk@gmail.com
 - ☑️ Also [Here is](https://www.hackerrank.com/uczbrk) my Hackerrank profile
