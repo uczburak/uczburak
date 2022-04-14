@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Burak
-- 👀 I’m interested in Javascript/C#(.Net)
+- 👀 I’m interested in C#(.Net)/Javascript
 - 🌱 I’m currently learning Backend Dev.
 - 💞️ I’m looking to collaborate on a Company
 - 📫 How to reach me uczbrk@gmail.com
