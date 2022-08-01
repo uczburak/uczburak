@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Burak
 - 👀 I’m interested in C#(.Net)/Javascript
-- 🌱 I’m currently learning Backend Dev.
+- 🌱 I’m currently working at Softtech
 - 📫 How to reach me uczbrk@gmail.com
 - ☑️ Also [Here is](https://www.hackerrank.com/uczbrk) my Hackerrank profile
 
